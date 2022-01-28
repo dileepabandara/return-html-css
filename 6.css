@@ -1,0 +1,15 @@
+p,
+h1 {
+  color: blue;
+  font-family: georgia;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration: sideline;
+}
+h2 {
+  background-color: yellow;
+  color: green;
+  font-family: "Courier New";
+  font-weight: bold;
+  font-style: italic;
+}

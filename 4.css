@@ -1,0 +1,10 @@
+p,
+h1 {
+  background-color: red;
+  color: blue;
+  font-family: georgia;
+}
+h2 {
+  color: green;
+  font-family: "Courier New";
+}
